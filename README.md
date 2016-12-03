@@ -1,5 +1,7 @@
 #  EPICODUS STUDENT PROJECT | JS Practice: Build an Address Book
 
+![screenshot](ss.png)
+
 ## Address Book, August 23, 2016
 
 ###  By Dean Scelza 
