@@ -1,6 +1,6 @@
 #  EPICODUS STUDENT PROJECT | JS Practice: Build an Address Book
 
-![screenshot](ss.png)
+![screenshot](img/ss.png)
 
 ## Address Book, August 23, 2016
 
